@@ -1,7 +1,7 @@
 # Apple Notes Parser
 
 <div align="left">
-  <img src="assets/notes-parser.png" alt="Apple Notes Parser Logo" width="200"/>
+  <img src="assets/logo.png" alt="Apple Notes Parser Logo" width="200"/>
 </div>
 
 A powerful tool for parsing and converting Apple Notes data into other formats. This project allows you to extract your Apple Notes content and convert it into a more accessible format.
